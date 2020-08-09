@@ -7,7 +7,7 @@
 :iphone: I am passionate about mobile development, specially native android and hybrid technologies (React Native).
 When it comes to backend development, .Net Core is usually my choice
 
-:books: I like to learn new frameworks and languages bacause best one is always the one that fits the use-case
+:books: I like to learn new frameworks and languages bacause the best one is always the one that fits the use-case
 
 :coffee: I love coffe :heart:
 
