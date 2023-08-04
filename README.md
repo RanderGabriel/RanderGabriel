@@ -8,5 +8,3 @@
 
 :iphone: I am passionate about mobile development, specially native android and hybrid technologies (React Native).
 When it comes to backend development, .Net Core is usually my choice
-
-:coffee: I love coffe :heart:
